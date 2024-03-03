@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "thienphong0",
+  "repo": "container-zy3z4j4",
+  "name": "thienphong0",
+  "email": "rinnevp.s@gmail.com",
+}
